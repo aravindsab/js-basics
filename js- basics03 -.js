@@ -2,7 +2,10 @@
 // function  function name {  
     // some logic
     // }
-
+// function is a block of code, taht does something on return the output
+// function  function name {  
+    // some logic
+    // }
 
     function printsomething ( ) {
         console.log('hello world')

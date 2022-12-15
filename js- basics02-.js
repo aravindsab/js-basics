@@ -29,6 +29,8 @@ let car = {
 }
 //object will always be inside {} and properties will be defined as key / value pair
 //ex: key: value
+//object will always be inside {} and properties will be defined as key / value pair
+//ex: key: value
 
 let employee = {
     name: 'aravind',
