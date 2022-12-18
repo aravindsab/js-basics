@@ -67,8 +67,19 @@ findlengthofarray(arr) [
 ]
 
 const arr = ['india', 'usa','mexico',]
-console.log(findbiggest)
+console.log(findbiggestofarray(arr))
 
+const person = {
+    name: "aravind",
+    email: "aravind gmail",
+    address: {
+        address1: "123 main st",
+        address1: "g block",
+        state: "india",
+        pin: "62099n"
+    },
+    interests: ["cooking", "travel", "reading"]
+}
 
 
 
