@@ -17,19 +17,14 @@
 //3 write a function that returns boolean flag if a number is between 5000 and 9999
 
 
-          function isBoolean(num) {
-          let i = 5000; i <= 9999; i++
-          {
-          if (num % i === 5000) {
-          isBoolean = false;
-          } else {
-          isBoolean = true;
-          }
-          }
-          return (i);
-          }
-
-           console.log(isBoolean)
+         function isBoolean(num)
+        {
+        if (num>500 && num<999) 
+            return true;
+        else 
+            return false;
+        }
+        console.log(isBoolean(550))
 
 
 //4 write a function that accepts a number and returns the cube root of the number
@@ -97,5 +92,7 @@
 
 
 
+
+          
 
 
